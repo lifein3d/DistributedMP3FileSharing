@@ -1,5 +1,5 @@
 # Distributed MP3 file sharing system
-### By Lincoln Lorscheider, Kaycee Valdez, and Bryant Hanks
+### By Bryant Hanks, Kaycee Valdez, and Lincoln Lorscheider
 ####-This system consists of three files.
   1. The Client (ssl-client.c)
   2. The default server (ssl-server.c)
